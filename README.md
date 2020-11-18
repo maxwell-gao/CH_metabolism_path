@@ -1,6 +1,6 @@
 # 1. Metabolism pathway
 
-__Provided by Gao Senquan(2019013224), Chen Shurui(2019013222), Diao Tongxin(2019013240) and Lu Minsi(2019080058) in THU. We've also push it to `Github` repository
+__Provided by Gao Senquan, Chen Shurui, Diao Tongxin and Lu Minsi. We've also push it to `Github` repository
  (Available at [https://github.com/maxwell-gao/CH_metabolism_path](https://github.com/maxwell-gao/CH_metabolism_path))__
 
 ## 1.1. __Preface__
